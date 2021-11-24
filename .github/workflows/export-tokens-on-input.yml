@@ -1,0 +1,22 @@
+{
+  "name": "style-dictionary-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "style-dictionary build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleylimin/style-dictionary"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashleylimin/style-dictionary/issues"
+  },
+  "homepage": "https://github.com/ashleylimin/style-dictionary#readme",
+  "dependencies": {
+    "style-dictionary": "^0.3.0"
+  }
+}
