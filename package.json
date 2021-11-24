@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ashleylimin/style-dictionary.git"
+    "url": "git+https://github.com/ashleylimin/style-dictionary"
   },
   "author": "",
   "license": "ISC",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ashleylimin/style-dictionary#readme",
   "dependencies": {
-    "style-dictionary": "^2.10.2"
+    "style-dictionary": "^0.3.0"
   }
 }
