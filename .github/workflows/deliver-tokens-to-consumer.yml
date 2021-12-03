@@ -16,10 +16,10 @@ jobs:
       with:
         # See documentation: https://docs.github.com/e n/actions/reference/encrypted-secrets
         # Set the secret in the "src" repository
-        personal_token: ${{ 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 }}
+        personal_token: ${{ secrets.API_TOKEN_GITHUB }}
         # This is the branch that has the code for this article
         src_branch: generating-design-token-theme-shades-with-style-dictionary
-        src_path: output/scss/_variables.css
+        src_path: output/css/_variables.css
         dst_owner: ashleylimin
         dst_repo_name: consume-style-dictionary-github-actions
         dst_repo_name: design-token-theme-shades
